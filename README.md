@@ -62,3 +62,8 @@ Inovação aqui não é só discurso, é prática.
 
 ✔ Autonomia
 
+🏁 Missão
+
+Formar profissionais preparados, conectados e capazes de transformar conhecimento em soluções reais.
+
+
