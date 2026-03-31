@@ -1,11 +1,74 @@
-<img width="1034" height="175" alt="image" src="https://github.com/user-attachments/assets/9c829a91-0af9-4653-b3f8-e36af057e3ef" />
+# 🚀 ByteBuilders
 
-A ByteBuilders foi fundada com múltiplos objetivos e emerge como um catalisador fundamental para o enriquecimento do curso de Sistemas de Informação.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9c829a91-0af9-4653-b3f8-e36af057e3ef" alt="ByteBuilders" width="700"/>
+</p>
 
-Seus objetivos primários abrangem a expansão da grade curricular por meio da execução de projetos que não apenas aprimoram, mas também cultivam habilidades práticas essenciais para os estudantes. Além disso, a ByteBuilders visa fortalecer os laços entre a academia e o dinâmico mercado de tecnologia.
+<p align="center">
+  <strong>Conectando academia e mercado através da tecnologia</strong>
+</p>
 
-Em seu escopo amplo, a iniciativa engloba a realização de eventos tanto internos quanto externos, proporcionando um ambiente propício para a troca de conhecimentos e experiências entre alunos, professores e profissionais da área. Essa interação ativa com o meio externo não apenas enriquece o aprendizado dos participantes, mas também estabelece uma ponte crucial entre o ambiente acadêmico e as demandas práticas do setor.
+<p align="center">
+  <a href="https://www.instagram.com/bytebuilders.ufvjm/">
+    <img src="https://img.shields.io/badge/Instagram-ByteBuilders-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Área-Tecnologia-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Instituição-UFVJM-orange?style=for-the-badge"/>
+</p>
 
-Além disso, a ByteBuilders atua como um espaço inclusivo, abrindo suas portas para a participação não apenas dos membros da comunidade da UFVJM, mas também acolhendo colaboradores externos, professores e alunos provenientes de diversos cursos da instituição. Essa abordagem interdisciplinar não apenas promove a diversidade de perspectivas, mas também fomenta a formação de uma rede colaborativa aberta, enriquecendo o ambiente de aprendizado.
+---
 
-Por fim, a iniciativa busca estimular a autonomia estudantil, encorajando os participantes a assumirem papéis ativos em seus projetos, desenvolvendo assim habilidades de liderança, resolução de problemas e trabalho em equipe. Em síntese, a ByteBuilders transcende as fronteiras tradicionais da educação, moldando-se como um catalisador dinâmico para a formação integral dos estudantes e a aproximação efetiva entre a academia e as demandas do mercado de tecnologia. Para ficar por dentro de tudo que acontece na liga, não se esqueça de seguir o Instagram: https://www.instagram.com/bytebuilders.ufvjm/.
+## 🎯 Sobre a ByteBuilders
+
+A **ByteBuilders** é uma iniciativa voltada ao fortalecimento do curso de **Sistemas de Informação**, promovendo experiências práticas que complementam a formação acadêmica.
+
+Atuamos como uma ponte entre a universidade e o mercado, preparando os estudantes para desafios reais da área de tecnologia.
+
+---
+
+## ⚙️ Atividades
+📦 Projetos práticos
+🎓 Eventos e workshops
+🤝 Networking com profissionais
+🚀 Desenvolvimento de soluções reais
+
+
+---
+
+## 🌍 Comunidade
+
+A ByteBuilders é um ambiente aberto e colaborativo:
+
+- 👨‍🎓 Estudantes da UFVJM  
+- 👩‍🏫 Professores  
+- 🌐 Colaboradores externos  
+- 🔀 Participantes de diferentes cursos  
+
+Diversidade aqui não é só discurso — é prática.
+
+---
+
+## 🧠 Habilidades Desenvolvidas
+✔ Pensamento crítico
+✔ Resolução de problemas
+✔ Trabalho em equipe
+✔ Liderança
+✔ Autonomia
+
+
+---
+
+## 📊 Estrutura da Iniciativa
+
+```mermaid
+graph TD
+    A[ByteBuilders] --> B[Projetos]
+    A --> C[Eventos]
+    A --> D[Comunidade]
+    B --> E[Prática]
+    C --> F[Networking]
+    D --> G[Colaboração]
+
+📲 Conecte-se
+<p align="center"> <a href="https://www.instagram.com/bytebuilders.ufvjm/"> <img src="https://img.shields.io/badge/Seguir%20no%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
