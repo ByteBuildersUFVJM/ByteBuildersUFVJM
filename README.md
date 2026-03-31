@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Conectando academia e mercado através da tecnologia</strong>
+  <strong>Conectando universidade e mercado através da tecnologia</strong>
 </p>
 
 <p align="center">
@@ -29,8 +29,11 @@ Atuamos como uma ponte entre a universidade e o mercado, preparando os estudante
 
 ## ⚙️ Atividades
 📦 Projetos práticos
+
 🎓 Eventos e workshops
+
 🤝 Networking com profissionais
+
 🚀 Desenvolvimento de soluções reais
 
 
@@ -56,19 +59,3 @@ Diversidade aqui não é só discurso — é prática.
 ✔ Liderança
 ✔ Autonomia
 
-
----
-
-## 📊 Estrutura da Iniciativa
-
-```mermaid
-graph TD
-    A[ByteBuilders] --> B[Projetos]
-    A --> C[Eventos]
-    A --> D[Comunidade]
-    B --> E[Prática]
-    C --> F[Networking]
-    D --> G[Colaboração]
-
-📲 Conecte-se
-<p align="center"> <a href="https://www.instagram.com/bytebuilders.ufvjm/"> <img src="https://img.shields.io/badge/Seguir%20no%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
