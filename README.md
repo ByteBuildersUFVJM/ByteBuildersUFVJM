@@ -43,19 +43,22 @@ Atuamos como uma ponte entre a universidade e o mercado, preparando os estudante
 
 A ByteBuilders é um ambiente aberto e colaborativo:
 
-- 👨‍🎓 Estudantes da UFVJM  
+- 👨‍🎓 Estudantes de Sistemas de Informação  
 - 👩‍🏫 Professores  
 - 🌐 Colaboradores externos  
-- 🔀 Participantes de diferentes cursos  
 
-Diversidade aqui não é só discurso — é prática.
+Inovação aqui não é só discurso, é prática.
 
 ---
 
 ## 🧠 Habilidades Desenvolvidas
 ✔ Pensamento crítico
+
 ✔ Resolução de problemas
+
 ✔ Trabalho em equipe
+
 ✔ Liderança
+
 ✔ Autonomia
 
