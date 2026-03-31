@@ -70,4 +70,12 @@ Formar profissionais preparados, conectados e capazes de transformar conheciment
 
 ---
 
+🤝 Contribuição
+
+Quer fazer parte ou colaborar?
+# Entre em contato via Instagram
+# ou procure um membro da ByteBuilders
+
+---
+
 ByteBuilders, construindo o futuro com tecnologia! 🚀
