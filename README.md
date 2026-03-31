@@ -75,6 +75,7 @@ Formar profissionais preparados, conectados e capazes de transformar conheciment
 Quer fazer parte ou colaborar?
 
 -Entre em contato via Instagram
+
 -Procure um membro da ByteBuilders
 
 ---
