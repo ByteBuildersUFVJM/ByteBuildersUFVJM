@@ -64,18 +64,19 @@ Inovação aqui não é só discurso, é prática.
 
 ---
 
-🏁 Missão
+##  🏁 Missão
 
 Formar profissionais preparados, conectados e capazes de transformar conhecimento em soluções reais.
 
 ---
 
-🤝 Contribuição
+## 🤝 Contribuição
 
 Quer fazer parte ou colaborar?
-# Entre em contato via Instagram
-# ou procure um membro da ByteBuilders
+
+-Entre em contato via Instagram
+-Procure um membro da ByteBuilders
 
 ---
 
-ByteBuilders, construindo o futuro com tecnologia! 🚀
+##  ByteBuilders, construindo o futuro com tecnologia! 🚀
